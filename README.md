@@ -81,3 +81,11 @@ The FNP Sales Analysis dashboard reveals strong performance in select categories
 
 ---
 
+## Dashboard Link Here
+https://github.com/Rajeev7543/Data-Analysis-Dashboard/blob/main/FNP%20Dashboard.png
+
+## Dashboard Image
+![FNP Dashboard](https://github.com/user-attachments/assets/1f58e874-96f8-49c9-a904-ae9167fc896a)
+
+
+
